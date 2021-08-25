@@ -1,5 +1,5 @@
-# Salient Target Based Dual Attention Network for Infrared and Visible Image Fusion
-This is the implementation for "Dual Attention-Based Network with Self-Adaptive Learning for Infrared and Visible Image Fusion".
+# MACFuse:  Multi-level Attention-guided Contrastive Learning for Infrared and Visible Image Fusion
+This is the implementation for the paper "MACFuse:  Multi-level Attention-guided Contrastive Learning for Infrared and Visible Image Fusion".
 
 ### Contributions
 
